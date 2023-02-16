@@ -1,0 +1,15 @@
+/* Author-Bismi John */
+.mcontainer {
+    background-color: rgb(250, 245, 245);
+    font-family: candara;
+}
+.header {
+    height: 30px;
+}
+.icon img {
+    width: 20px;
+    height: 20px;
+}
+.images:hover {
+    transform: scale(1.1);
+}
